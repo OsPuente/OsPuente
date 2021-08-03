@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OsPuente
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning Kotlin and MVVM Pattern
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me by text message
